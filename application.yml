@@ -4,7 +4,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:4321/SM
     username: SMUSER
-    password: SMPW
+    password: SMP
 
   jpa:
     hibernate:
